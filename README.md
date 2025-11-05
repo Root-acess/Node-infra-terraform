@@ -109,8 +109,8 @@ terraform apply -var-file=environments/development/terraform.tfvars
 
 ## 👥 Maintainers
 
-**Project Owner:** Charon (Hiralal Singh)
-**GitHub:** [Root-acess](https://github.com/Root-acess)
+**Project Owner:** Charon ,Mohammed Shadab 
+**GitHub:** [Root-acess](https://github.com/Root-acess)  [Mohammed Shadab](https://github.com/mdshadab0)
 
 ---
 
